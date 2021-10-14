@@ -9,7 +9,7 @@
 - 시간이 지날 수록 각각 다른 스타일의 공격이 추가된다.
 - 전 작인 space-dodge_Ver1.1 의 후속작이다. 
 - (게임 파일과 소스 파일을 못찾고 있다. (2년 전))
-
+- 제 1회 소프트웨어 융합대학 학술제 서공제 개인부무 대상 작품
 # 게임 설명 (발표자료)
 <img width="825" alt="image" src="https://user-images.githubusercontent.com/46768743/134810412-c95df20a-9aed-4709-aa5b-55dcf011e667.png">
 
