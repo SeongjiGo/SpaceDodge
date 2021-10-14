@@ -1,4 +1,4 @@
-# Space-Dodge
+# Space-Dodge Game Project
 ## 2019년도 2학년 2학기, Unity를 이용한 슈팅게임 프로젝트
 
 - 게임 제목: Space-dodge
